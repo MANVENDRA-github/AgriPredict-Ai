@@ -38,7 +38,7 @@ Usage details
 
 🧮 5. Price Comparison Dashboard
 
-Displays 10–15 commonly traded commodities.
+Displays 15–20 commonly traded commodities.
 
 Helps users compare market prices at a glance.
 
