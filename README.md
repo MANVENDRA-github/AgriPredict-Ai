@@ -2,7 +2,7 @@ AgriPredict-AI  — AI-Powered Agricultural Commodity Identification & Price Ins
 
 AgriPredict-AI is an AI-driven agricultural intelligence platform designed to help farmers, traders, consumers, and market participants identify vegetables, fruits, pulses, spices, and nuts through image recognition and access real-time Indian market prices.
 The system also provides weekly price trends, commodity metadata, and a responsive dark-cosmic UI for a smooth user experience.
-
+<br>
 🚀 Features
 🔍 1. AI-Based Commodity Identification
 
