@@ -87,8 +87,6 @@ Axios
 
 Gemini API (Gemini 2.5 Flash model)
 
-AI
-
 Gemini Vision API for commodity identification
 
 Confidence & fallback prediction pipeline
