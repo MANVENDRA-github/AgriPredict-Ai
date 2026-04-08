@@ -57,7 +57,7 @@ MongoDB Atlas for user sessions, price data, and logs
 TanStack Query for caching & optimized network calls
 
 Vite for blazing-fast development
-
+<br>
 Tech Stack
 Frontend
 
